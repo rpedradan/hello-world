@@ -1,5 +1,6 @@
 # hello-world
 my repository
+
 Hi! 
 I am Ricky but you I prefer calling me Rix, hehe. 
 I love watching animes and k-dramas. 
